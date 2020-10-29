@@ -1,0 +1,14 @@
+D:\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+D:\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+D:\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+D:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojAssemblyReference.cache
+D:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.CoreCompileInputs.cache
+D:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+D:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Users\kao_g\Downloads\MediaPlayer-master\MediaPlayer-master\MediaPlayer\obj\Debug\MediaPlayer.csprojAssemblyReference.cache
+C:\Users\kao_g\Downloads\MediaPlayer-master\MediaPlayer-master\MediaPlayer\obj\Debug\MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\kao_g\Downloads\MediaPlayer-master\MediaPlayer-master\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Users\kao_g\Downloads\MediaPlayer-master\MediaPlayer-master\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Users\kao_g\Downloads\MediaPlayer-master\MediaPlayer-master\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\kao_g\Downloads\MediaPlayer-master\MediaPlayer-master\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\kao_g\Downloads\MediaPlayer-master\MediaPlayer-master\MediaPlayer\bin\Debug\MediaPlayer.pdb
